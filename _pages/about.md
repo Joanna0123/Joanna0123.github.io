@@ -15,4 +15,4 @@ I am very fortunate to be advised by [Prof.Yang Deqing](https://scholar.google.c
 
 For more info
 ------
-[Email](xfyuan23@m.fudan.edu.cn) / [Github](https://github.com/Joanna0123)
+[Github](https://github.com/Joanna0123)
